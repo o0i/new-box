@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;24c1ae77414a0a4350a9be0436c3bd99",
+  "spider": "https://raw.githubusercontent.com/o0i/new-box/main/d010dfab47269c14060799e327d8f079.jar",
   "wallpaper": "https://bing.img.run/rand.php",
   "sites": [
     {
@@ -24,7 +24,7 @@
         "type": "oval"
       },
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
+        "Cloud-drive": "./tvfan/Cloud-drive.txt"
       }
     },
     {
@@ -37,7 +37,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
+        "Cloud-drive": "./tvfan/Cloud-drive.txt"
       }
     },
     {
@@ -103,7 +103,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
+        "Cloud-drive": "./tvfan/Cloud-drive.txt"
       }
     },
     {
@@ -429,7 +429,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
+        "Cloud-drive": "./tvfan/Cloud-drive.txt"
       }
     },
     {
@@ -441,7 +441,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
+        "Cloud-drive": "./tvfan/Cloud-drive.txt"
       }
     },
     {
@@ -453,7 +453,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "Cloud-drive": "./tvfan/Cloud-drive.txt",
         "yiSoCookie": "satoken=4437cb8c-a260-411b-9a0d-1fa622ab422f"
       }
     },
@@ -466,7 +466,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
+        "Cloud-drive": "./tvfan/Cloud-drive.txt"
       }
     },
     {
@@ -478,7 +478,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
+        "Cloud-drive": "./tvfan/Cloud-drive.txt"
       }
     },
     {
@@ -489,7 +489,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
+        "Cloud-drive": "./tvfan/Cloud-drive.txt"
       }
     },
     {
